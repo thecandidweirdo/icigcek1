@@ -68,9 +68,6 @@ nav .menu-btn i {
   content: "\f00d";
 }
 @media all and (max-width: 768px) {
-  .text-box {
-    display: none;
-  }
   .text-box h1 {
     font-size: 20px;
   }
